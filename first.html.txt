@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>BeatleBik - Строительство домов с помощью 3D принтера</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+
+        #header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        #header h1 {
+            margin: 0;
+        }
+
+        #content {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        #content h2 {
+            margin-top: 0;
+        }
+
+        #content p {
+            margin-bottom: 20px;
+        }
+
+        #footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="header">
+        <h1>BeatleBik - Строительство домов с помощью 3D принтера</h1>
+    </div>
+
+    <div id="content">
+        <h2>Преимущества нашего подхода:</h2>
+        <ul>
+            <li>Экономия: Благодаря использованию 3D принтеров мы существенно сокращаем затраты на строительство.</li>
+            <li>Экология: Мы стремимся к экологически чистому строительству.</li>
+            <li>Удобство: Строительство с помощью 3D принтера позволяет нам создавать индивидуальные проекты.</li>
+            <li>Надежность: Наши дома строятся с использованием прочных и надежных материалов.</li>
+        </ul>
+
+        <p>Приглашаем вас присоединиться к нашему стартапу BeatleBik и стать частью будущего строительной индустрии.</p>
+        <p>Свяжитесь с нами сегодня, чтобы узнать больше о наших услугах и начать строительство вашей мечты.</p>
+    </div>
+
+    <div id="footer">
+        <p>&copy; 2023 BeatleBik. Все права защищены.</p>
+    </div>
+</body>
+</html>
